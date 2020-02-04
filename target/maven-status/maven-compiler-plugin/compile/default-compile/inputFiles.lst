@@ -1,0 +1,12 @@
+/Users/krauser/Documents/BU/data stream analytics/clusterdata-analysis/src/main/java/clusterdata/utils/TaskEventSchema.java
+/Users/krauser/Documents/BU/data stream analytics/clusterdata-analysis/src/main/java/clusterdata/exercise1/MaxTaskCompletionTimeFromKafka.java
+/Users/krauser/Documents/BU/data stream analytics/clusterdata-analysis/src/main/java/clusterdata/datatypes/JobEvent.java
+/Users/krauser/Documents/BU/data stream analytics/clusterdata-analysis/src/main/java/clusterdata/exercise1/JobEventCount.java
+/Users/krauser/Documents/BU/data stream analytics/clusterdata-analysis/src/main/java/clusterdata/sources/JobEventSource.java
+/Users/krauser/Documents/BU/data stream analytics/clusterdata-analysis/src/main/java/clusterdata/datatypes/EventType.java
+/Users/krauser/Documents/BU/data stream analytics/clusterdata-analysis/src/main/java/clusterdata/exercise1/JobSchedulingLatency.java
+/Users/krauser/Documents/BU/data stream analytics/clusterdata-analysis/src/main/java/clusterdata/sources/TaskEventSource.java
+/Users/krauser/Documents/BU/data stream analytics/clusterdata-analysis/src/main/java/clusterdata/datatypes/TaskEvent.java
+/Users/krauser/Documents/BU/data stream analytics/clusterdata-analysis/src/main/java/clusterdata/utils/JobEventSchema.java
+/Users/krauser/Documents/BU/data stream analytics/clusterdata-analysis/src/main/java/clusterdata/utils/AppBase.java
+/Users/krauser/Documents/BU/data stream analytics/clusterdata-analysis/src/main/java/clusterdata/exercise1/FilterTaskEventsToKafka.java
